@@ -24,7 +24,7 @@ http://gallery.pangeo.io/ - gallery of other Earth specific tools and data.
   Пример самой карты https://openlandmap.org/#/?base=BingMaps%20(Aerial)&center=55.2589,82.4785&zoom=10&opacity=80&layer=lcv_land.cover_esacci.lc.l4_c&time=2015
 2. Open Weather Api - https://openweathermap.org/api
 3. https://fires.ru/help.html - коммерческое API по локализации пожаров в РФ, есть бесплатная версия.
-
+4. http://kaskad.ukmmchs.ru/map/query?int&20200925&20200926.json - Выдача термоточек по API от каскада
   
 ## МЛ
 1. https://github.com/GeneralLi95/deepglobe_land_cover_classification_with_deeplabv3plus - Классификация земли по спутниковому снимку. Где-то там есть уже готовый датасет
