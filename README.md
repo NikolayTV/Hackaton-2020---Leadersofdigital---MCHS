@@ -26,7 +26,9 @@ http://gallery.pangeo.io/ - gallery of other Earth specific tools and data.
 2. Open Weather Api - https://openweathermap.org/api
 3. https://fires.ru/help.html - коммерческое API по локализации пожаров в РФ, есть бесплатная версия.
 4. http://kaskad.ukmmchs.ru/map/query?int&20200925&20200926.json - Выдача термоточек по API от каскада
-  
+5. https://firenotification.mchs.ru/thermal-points/done/list - Исторические данные по термоточкам от МЧС
+
+
 ## МЛ
 1. https://github.com/GeneralLi95/deepglobe_land_cover_classification_with_deeplabv3plus - Классификация земли по спутниковому снимку. Где-то там есть уже готовый датасет
 2. https://www.kaggle.com/data13/brazilian-wildfire-prediction/notebook - Можно сделать предсказание вероятности появления пожара в регионе по историческим данным
