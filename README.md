@@ -18,3 +18,4 @@ http://gallery.pangeo.io/ - gallery of other Earth specific tools and data.
 5. есть API по категориям земель опенсорсное Based on the European Space Agency
   Гитхаб с описанеим https://github.com/Envirometrix/LandGISmaps
   Пример самой карты https://openlandmap.org/#/?base=BingMaps%20(Aerial)&center=55.2589,82.4785&zoom=10&opacity=80&layer=lcv_land.cover_esacci.lc.l4_c&time=2015
+6. https://github.com/GeneralLi95/deepglobe_land_cover_classification_with_deeplabv3plus - Классификация земли по спутниковому снимку. Где-то там есть уже готовый датасет
