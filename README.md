@@ -3,7 +3,8 @@
 ## Tools 
 
 
-JS библиотека для графиков и карт - (https://www.react-simple-maps.io)
+1. JS библиотека для графиков и карт - (https://www.react-simple-maps.io)
+2. Open Weather Api - https://openweathermap.org/api
 
 
 
