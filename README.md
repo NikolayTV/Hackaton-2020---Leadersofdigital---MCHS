@@ -6,7 +6,8 @@ https://docs.google.com/document/d/1q3gyag7DPvKUqWCpd92OYG5bnMN3bHoWEaFwB_54LYE/
 
 1. JS библиотека для графиков и карт - (https://www.react-simple-maps.io)
 
-
+## Information
+1. http://www.wood.ru/ru/lofire.html - информация о пожарах
 
 # Nikolay
 
