@@ -5,21 +5,29 @@ https://docs.google.com/document/d/1q3gyag7DPvKUqWCpd92OYG5bnMN3bHoWEaFwB_54LYE/
 
 
 1. JS библиотека для графиков и карт - (https://www.react-simple-maps.io)
-2. Open Weather Api - https://openweathermap.org/api
 
 
 
 # Nikolay
+
+## Tools
 1. https://blog.jupyter.org/interactive-gis-in-jupyter-with-ipyleaflet-52f9657fa7a - ipywidgets + ipyleaflet. Maps in ipywidgets
 http://gallery.pangeo.io/ - gallery of other Earth specific tools and data. 
 2. https://github.com/wildfirepy/wildfirepy - some python project for using wild fire data with terrible documentation
 3. http://www.wildfireincidents.com/current-wildfire-activity-map - wildFire Activity map
 4. http://gallery.pangeo.io/ - gallery of other Earth specific tools and data
-5. есть API по категориям земель опенсорсное Based on the European Space Agency
+
+
+## Maps API
+1. есть API по категориям земель опенсорсное Based on the European Space Agency
   Гитхаб с описанеим https://github.com/Envirometrix/LandGISmaps
   Пример самой карты https://openlandmap.org/#/?base=BingMaps%20(Aerial)&center=55.2589,82.4785&zoom=10&opacity=80&layer=lcv_land.cover_esacci.lc.l4_c&time=2015
-6. https://github.com/GeneralLi95/deepglobe_land_cover_classification_with_deeplabv3plus - Классификация земли по спутниковому снимку. Где-то там есть уже готовый датасет
-7. https://www.kaggle.com/data13/brazilian-wildfire-prediction/notebook - Можно сделать предсказание вероятности появления пожара в регионе по историческим данным
-8. https://www.kaggle.com/edhirif/predict-the-causes-of-wildfires-using-python 
+2. Open Weather Api - https://openweathermap.org/api
+  
+  
+## МЛ
+1. https://github.com/GeneralLi95/deepglobe_land_cover_classification_with_deeplabv3plus - Классификация земли по спутниковому снимку. Где-то там есть уже готовый датасет
+2. https://www.kaggle.com/data13/brazilian-wildfire-prediction/notebook - Можно сделать предсказание вероятности появления пожара в регионе по историческим данным
+3. https://www.kaggle.com/edhirif/predict-the-causes-of-wildfires-using-python 
    https://www.kaggle.com/edhirif/predict-the-causes-of-wildfires-using-python - Предсказание причины пожара по GPS, дате, времени, погоде
-9. 
+4. https://www.kaggle.com/psvishnu/forestfire-impact-prediction-stats-and-ml - Предсказание площади территории пожара
