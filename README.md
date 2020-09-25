@@ -1,4 +1,5 @@
 # Hackaton-2020---Leadersofdigital---MCHS
+https://docs.google.com/document/d/1q3gyag7DPvKUqWCpd92OYG5bnMN3bHoWEaFwB_54LYE/edit - Документ с сылками и тезисами
 
 ## Tools 
 
