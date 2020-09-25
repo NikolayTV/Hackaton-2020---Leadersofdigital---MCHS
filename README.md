@@ -31,3 +31,10 @@ http://gallery.pangeo.io/ - gallery of other Earth specific tools and data.
 3. https://www.kaggle.com/edhirif/predict-the-causes-of-wildfires-using-python 
    https://www.kaggle.com/edhirif/predict-the-causes-of-wildfires-using-python - Предсказание причины пожара по GPS, дате, времени, погоде
 4. https://www.kaggle.com/psvishnu/forestfire-impact-prediction-stats-and-ml - Предсказание площади территории пожара
+5. Можно также предсказывать силу пожара по его координатам погоде и т.п. 
+
+Вывод: 
+Для построения моделей предсказания площади охвата пожара, его интенсивности, причины пожара по координатам нужно спарсить категорию земель, время + прогноз погоды.
+
+Для предсказания вероятности появления пожаров и их интенсивности нужны исторические данных по пожарам + погода.
+
