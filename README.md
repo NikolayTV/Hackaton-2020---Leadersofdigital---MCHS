@@ -36,6 +36,8 @@ http://gallery.pangeo.io/ - gallery of other Earth specific tools and data.
    https://www.kaggle.com/edhirif/predict-the-causes-of-wildfires-using-python - Предсказание причины пожара по GPS, дате, времени, погоде
 4. https://www.kaggle.com/psvishnu/forestfire-impact-prediction-stats-and-ml - Предсказание площади территории пожара
 5. Можно также предсказывать силу пожара по его координатам погоде и т.п. 
+6. https://wildfire.sberbank.ai/competition - Sberbank wildfire competition. Predicte type of fire from thermalpoints
+7. https://github.com/bessammehenni/Forest_wildfire_spreading_convLSTM_prediction/blob/master/Report_EN.pdf - предсказание распространения пожара
 
 Вывод: 
 Для построения моделей предсказания площади охвата пожара, его интенсивности, причины пожара по координатам нужно спарсить категорию земель, время + прогноз погоды.
