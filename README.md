@@ -8,6 +8,7 @@ https://docs.google.com/document/d/1q3gyag7DPvKUqWCpd92OYG5bnMN3bHoWEaFwB_54LYE/
 
 ## Information
 1. http://www.wood.ru/ru/lofire.html - информация о пожарах
+2. http://www.transparentworld.ru/ru/environment/monitoring/fires/method/fire-type/  - еще 1 информация о пожарах
 
 # Nikolay
 
@@ -38,6 +39,7 @@ http://gallery.pangeo.io/ - gallery of other Earth specific tools and data.
 5. Можно также предсказывать силу пожара по его координатам погоде и т.п. 
 6. https://wildfire.sberbank.ai/competition - Sberbank wildfire competition. Predicte type of fire from thermalpoints
 7. https://github.com/bessammehenni/Forest_wildfire_spreading_convLSTM_prediction/blob/master/Report_EN.pdf - предсказание распространения пожара
+
 
 Вывод: 
 Для построения моделей предсказания площади охвата пожара, его интенсивности, причины пожара по координатам нужно спарсить категорию земель, время + прогноз погоды.
